@@ -1,0 +1,10 @@
+{
+  "name": "LifeQuest",
+  "short_name": "LifeQuest",
+  "description": "A cozy gamified daily task tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f4ed",
+  "theme_color": "#f7f4ed",
+  "icons": []
+}
